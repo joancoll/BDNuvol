@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BDNuvol</string>
+    <string name="title">BASE DE DADES FIREBASE</string>
+    <string name="name">Nom</string>
+    <string name="name_hint">Entri el seu nom</string>
+    <string name="lastname">Cognoms</string>
+    <string name="lastname_hint">Entri els seus cognoms</string>
+    <string name="add_user_to_cloud">Desa usuari al núvol</string>
+    <string name="delete_selected_user">Elimina usuari seleccionat</string>
+    <string name="error_user_already_exists">ERROR: Usuari ja existeix:</string>
+    <string name="error_cannot_test_user">ERROR: No s\'ha pogut comprovar l\'usuari</string>
+    <string name="new_user_added">Afegit nou usuari:</string>
+    <string name="error_user_add">Error afegint nou usuari:</string>
+    <string name="user_deletion">ELIMINAT</string>
+    <string name="error_user_deletion">ERROR: No s\'ha pogut eliminar l\'usuari</string>
+    <string name="error_empty_fields">ERROR. Els valors dels camps no poden ser buits</string>
+    <string name="error_no_selected_user">ERROR: No ha seleccionat cap usuari per eliminar</string>
+</resources>
